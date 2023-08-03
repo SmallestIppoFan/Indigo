@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307529141560",
+    "project_id": "indigo-demianko",
+    "storage_bucket": "indigo-demianko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307529141560:android:8718790bd2baf78a9905cd",
+        "android_client_info": {
+          "package_name": "com.example.indigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307529141560-bafnadeqilgd9rl8p0mn9ckluur0r7b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qIzBEKGqZZZw9wi0VJkX9X9vruimOHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307529141560-bafnadeqilgd9rl8p0mn9ckluur0r7b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
